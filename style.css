@@ -61,7 +61,7 @@ button {
   }
 
 .hover-underline-animation:hover:after {
-    transform: scaleX(0);
+    transform: scaleX(1);
     transform-origin: bottom left;
   }
 
